@@ -25,5 +25,5 @@ replay_pid*
 
 # OS generated files #
 ######################
-.DS_Store
-.DS_Store?
+**/.DS_Store
+**/.DS_Store?
